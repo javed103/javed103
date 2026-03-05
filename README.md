@@ -5,9 +5,17 @@
 ---
 
 ### 📊 My GitHub Stats
-![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javed103&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javed103&layout=compact&theme=radical)
-### 🛠 Languages & Tools
+
+<p align="left">
+</p>
+
+<p align="left">
+</p>
+
+### 🏆 GitHub Trophies
+<p align="left">
+</p>
+
 
 ### Data Science & Machine Learning (The RWTH Core)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
